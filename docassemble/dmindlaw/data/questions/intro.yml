@@ -1,0 +1,29 @@
+modules:
+  - .espanol
+---
+metadata:
+  title: Pantalla Principal
+  short title: Intro
+  description: Pantalla Principal
+  authors:
+    -name: José A Vega Sainz
+    organization: D-Mind Law
+  revision_date: 01-05-2021
+---
+initial: True
+code: |
+  set_language('es')
+---
+mandatory: True
+code: |
+  command('exit', url=target_url)
+---
+question: |
+  Bienvenido a Docassemble
+subquestion: |
+  Selecciona una entrevista para empezar:
+field: target_url
+buttons:
+  - NDA: "https://docassemble.dmindlaw.net/run/nda"
+  - Otro: exit
+---

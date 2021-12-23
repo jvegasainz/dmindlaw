@@ -1,0 +1,135 @@
+initial: True
+code: |
+  set_language('es')
+---
+modules:
+  - .espanol
+---
+metadata:
+  title: Acuerdo de Confidencialidad
+  short title: NDA
+  description: Acuerdo de confidencialidad
+  authors:
+    -name: José A Vega Sainz
+    organization: D-Mind Law
+  revision_date: 01-05-2021
+---
+mandatory: True
+question: Su documento está listo
+subquestion: |
+  Ya puede descargarlo
+attachment:
+  name: NDA ${ parteDiv }
+  filename: NDA
+  docx template file: ndaDocassemble.docx
+  variablename: docNda
+buttons:
+  - Salida: exit
+---
+objects:
+  - considerandos: DAList
+  - rec: DAList.using(object_type=Thing, there_are_any=True, complete_attribute='complete')
+---
+code: |
+  rec[i].nombre
+  rec[i].tipo
+  rec[i].domicilio
+  rec[i].representante
+  rec[i].apellido
+  rec[i].cargo
+  rec[i].mail
+  rec[i].complete = True
+  rec.counter = i+1
+---
+question: ¿Desea agregar un considerando?
+yesno: considerandos.there_are_any
+---
+question: Ingrese los considerandos
+fields:
+  - Considerando ${ ordinal(i) }: considerandos[i]
+list collect: True
+---
+question: Ingrese los datos de la Parte Divulgante
+fields:
+  - Nombre de la compañía: parteDiv
+  - Tipo social: tipoDiv
+    input type: combobox
+    choices:
+      - S.A.
+      - S.R.L.
+      - S.A.S.
+  - Domicilio: domicilioDiv
+  - Nombre del representante: representanteDiv
+  - Apellido del representante: apellidoDiv
+  - Cargo del representante: cargoDiv
+  - Mail de contacto: mailDiv
+    datatype: email
+---
+question: |
+  % if i == 0:
+  Ingreso los datos de la Parte Receptora
+  % else:
+  Ingrese los datos de la ${ ordinal(i+1, gender='female') } Parte Receptora
+  % endif
+fields:
+  - Nombre de la compañía: rec[i].nombre
+  - Tipo social: rec[i].tipo
+    input type: combobox
+    choices:
+      - S.A.
+      - S.R.L.
+      - S.A.S.
+  - Domicilio: rec[i].domicilio
+  - Nombre del representante: rec[i].representante
+  - Apellido del representante: rec[i].apellido
+  - Cargo del representante: rec[i].cargo
+  - Mail de contacto: rec[i].mail
+    datatype: email
+---
+question: ¿Desea agregar otra Parte receptora?
+yesno: rec.there_is_another
+---
+question: ¿Desea agregar una cláusula de Divulgación Reglamentaria?
+yesno: divulgacionReglamentaria
+help:
+  label: Ayuda
+  heading: |
+    ¿Qué es una Cláusula de Divulgación Reglamentaria?
+  content: |
+    Una Cláusula de Divulagación Reglamentaria prevé la manera en que alguna de las      partes podrá compartir información calificada como confidencial con entidades públicas en caso de que éstas lo requieran. Esta cláusula especifica el mecanismo para compartir información en dichos casos y el procedimiento para hacerlo.
+---
+question: ¿Cuantos años de vigencia tendrá el acuerdo?
+fields:
+  - Tiempo de Vigencia: tiempoVigencia
+    datatype: integer
+---
+question: Indique la ley de que páis será aplicable
+fields:
+  País: leyAplicable
+  input type: dropdown
+  choices:
+    - Argentina
+    - Chile
+    - Paraguay
+    - Uruguay
+---
+question: Ingrese los tribunales competentes
+subquestion: |
+  Las Partes aceptan irrevocablemente que toda acción legal, juicio o procedimiento que surja del presente Acuerdo o con relación a él será interpuesto y finalmente resuelto por los tribunales [FIELD tribunalCompetente], con renuncia a cualquier otro fuero que pueda corresponder.
+fields:
+  - Tribunales Competentes: tribunalCompetente
+---
+question: Ingrese el lugar de firma
+fields:
+  - Lugar de Firma: lugarFirma
+---
+question: ¿En que fecha se firmará el acuerdo?
+fields:
+  - Fecha de Firma: fechaFirma
+    datatype: date
+---
+code: |
+  cantidadPartes = rec.counter+1
+  cantidadPartesWords = nice_number(cantidadPartes)
+depends on:
+  rec.counter

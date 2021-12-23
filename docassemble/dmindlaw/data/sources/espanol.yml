@@ -1,0 +1,1303 @@
+"es":
+  "%(username_or_email)s does not exist": "%(username_or_email) no es valido"
+  "(%s uncompressed)": null
+  "(Deleted)": null
+  "(New branch)": null
+  "(New file)": null
+  "(Not a DAFile or DAFileList object)": null
+  "(Not a readable image file)": null
+  "(Unable to display map)": null
+  "(Unable to extract images from PDF file)": null
+  "(embedded question, source code not available)": null
+  "(no subject)": null
+  "(using your email address) and change your password.": null
+  ", are attached": ", se adjuntan"
+  ", is already in use by someone else": ", se encuentra en uso por alguien más"
+  ", is attached": ", se adjuta"
+  "-- Do not link --": null
+  ".": null
+  "404 Not Found": null
+  "?": null
+  "A QR code": "Un codigo QR"
+  "A chat message has arrived.": null
+  "A confirmation email has been sent to %(email)s with instructions to complete your registration.": null
+  "A new docassemble system version is available.  If you are using Docker, install a new Docker image.": null
+  "A reset password email has been sent to '%(email)s'. Open that email and follow the instructions to reset your password.": null
+  "A user with that e-mail has already registered": null
+  "API Keys": null
+  "API key": null
+  "API keys": null
+  "Access organizational repositories": null
+  "Access shared repositories": null
+  "Account did not exist.": null
+  "Account disabled": null
+  "Action": null
+  "Actions": null
+  "Activate chat": null
+  "Active": null
+  "Active File": null
+  "Actual": null
+  "Add": "Agregar"
+  "Add Email": null
+  "Add Privilege": null
+  "Add User": null
+  "Add a New Project": null
+  "Add a new privilege": null
+  "Add a user": null
+  "Add an item": null
+  "Add another": "Agregar otro"
+  "Administrator": null
+  "Administrator privilege": null
+  "Advocate privilege": null
+  "Afghanistan": null
+  "Albania": null
+  "Algeria": null
+  "Allowed sites": null
+  "Already registered?": null
+  "Already registered? Sign in.": null
+  "American Samoa": null
+  "An e-mail address is required.": "Se requiere una dirección de correo electrónico"
+  "An uploaded JSON file": null
+  "Andorra": null
+  "Angola": null
+  "Anguilla": null
+  "Anonymous": null
+  "Answer here": "Responda aquí"
+  "Antarctica": null
+  "Antigua and Barbuda": null
+  "App": null
+  "Apply": null
+  "Are you sure that you want to delete this file?": null
+  "Are you sure that you want to delete this package?": null
+  "Are you sure that you want to delete this playground file?": null
+  "Are you sure you want to delete all saved interviews?": null
+  "Are you sure you want to delete this item?": null
+  "Are you sure you want to permanently delete this user's account?": null
+  "Argentina": null
+  "Armenia": null
+  "Aruba": null
+  "At least one e-mail address must be listed": null
+  "Attachment": "Adjunto"
+  "Attachments": null
+  "Australia": null
+  "Austria": null
+  "Authentication": null
+  "Authentication failed.": null
+  "Author E-mail": null
+  "Author Name": null
+  "Autocomplete": null
+  "Available": null
+  "Available Interviews": null
+  "Available for chat": null
+  "Available interviews": null
+  "Azerbaijan": null
+  "Back": "Atrás"
+  "Back to Playground": null
+  "Back to profile": null
+  "Back to question": "Regresar a la pregunta"
+  "Bad date": null
+  "Bad file format": null
+  "Bahamas": null
+  "Bahrain": null
+  "Bangladesh": null
+  "Barbados": null
+  "Belarus": null
+  "Belgium": null
+  "Belize": null
+  "Benin": null
+  "Bermuda": null
+  "Bhutan": null
+  "Block": null
+  "Bolivia, Plurinational State of": null
+  "Bonaire, Sint Eustatius and Saba": null
+  "Bosnia and Herzegovina": null
+  "Botswana": null
+  "Bouvet Island": null
+  "Branch": null
+  "Brazil": null
+  "British Indian Ocean Territory": null
+  "Brunei Darussalam": null
+  "Bulgaria": null
+  "Burkina Faso": null
+  "Burundi": null
+  "Cabo Verde": null
+  "Cambodia": null
+  "Cameroon": null
+  "Canada": null
+  "Cancel": null
+  "Case No.": null
+  "Cayman Islands": null
+  "Central African Republic": null
+  "Chad": null
+  "Change": null
+  "Change Password": null
+  "Change password": null
+  "Change username": null
+  "Changed name of interview": null
+  "Chat message you want to send": null
+  "Check at least one option, or check “%s”": null
+  "Check box": null
+  "Check if applicable": null
+  "Checkboxes:": null
+  "Chile": null
+  "China": null
+  "Choices:": null
+  "Choose file": null
+  "Christmas Island": null
+  "Classes": null
+  "Clear": null
+  "Click here to confirm your e-mail": null
+  "Click here to get help over the phone.": null
+  "Click if you want the user to be able to call you.": null
+  "Click interview title to resume an interview you already started.": null
+  "Click to change your status to available": null
+  "Click to change your status to not available": null
+  "Click to try this interview": null
+  "Close": null
+  "Cocos (Keeling) Islands": null
+  "Colombia": null
+  "Commit": null
+  "Commit message": null
+  "Comoros": null
+  "Configuration": null
+  "Configuration YAML": null
+  "Configuration not updated.": null
+  "Configuration not updated.  There was a syntax error in the configuration YAML.": null
+  "Configuration not updated.  There was an error.": null
+  "Configure": null
+  "Confirm your email": null
+  "Confirmation Date": null
+  "Congo": null
+  "Congo, The Democratic Republic of the": null
+  "Connect": null
+  "Connected to Google Drive": null
+  "Connected to OneDrive": null
+  "Connected to server.": null
+  "Continue": "Continuar"
+  "Control": null
+  "Convert to .md": null
+  "Cook Islands": null
+  ? "Copy from here and paste into a YAML file, e.g., in the Sources folder of the Playground or the sources folder of a package."
+  : null
+  "Costa Rica": null
+  "Could not create new key": null
+  "Country Code": null
+  "Country code": null
+  "Create": null
+  "Create Package": null
+  "Create a new file": null
+  "Create a new interview": null
+  "Create a new package": null
+  "Create a new project": null
+  "Create an interview with the wizard": null
+  "Created new Markdown file called ": null
+  "Croatia": null
+  "Cuba": null
+  "Curaçao": null
+  "Current": null
+  "Cyprus": null
+  "Czechia": null
+  "Decorations": null
+  "Default Playground": null
+  "Defined in": null
+  "Delete": "Eliminar"
+  "Delete Account": null
+  "Delete All": null
+  "Delete account and shared sessions": null
+  "Delete account but keep shared sessions": null
+  "Delete project": null
+  "Delete this package from the Playground": null
+  "Deleted file: ": null
+  "Deleted interview": null
+  "Deleted interviews": null
+  "Deleted package": null
+  "Denmark": null
+  "Dependencies": null
+  "Description": null
+  "Developer Access": null
+  "Developer privilege": null
+  "Disable": null
+  "Disable two-factor authentication": null
+  "Display the menu": null
+  "Djibouti": null
+  "Do not stop your web browser.": null
+  "Docassemble Office Add-in": null
+  "Docassemble Playground": null
+  "Document": null
+  "Documentation": null
+  "Dominica": null
+  "Dominican Republic": null
+  "Done": null
+  "Download": "Descargar"
+  "Download All": null
+  "Download Office add-in manifest file": null
+  "Download all documents as a ZIP file": null
+  "Download all files": null
+  "Download an interview phrase translation file": null
+  "Download the current package": null
+  "Download this document as a ZIP file": null
+  "Download this file": null
+  "Download this log file": null
+  "Draft translation of system phrases": null
+  "E-mail": null
+  "E-mail address": "Dirección de e-mail"
+  "E-mail address is required": null
+  "E-mail is required": null
+  "E-mail these documents": null
+  "E-mail this document": null
+  "E-mail was sent to": null
+  "E.g., docassemble.demo:data/questions/questions.yml": null
+  "E.g., es, fr, it": null
+  "ERROR: you cannot insert a table into a .docx document": null
+  "Ecuador": null
+  "Edit": null
+  "Edit API Key": null
+  "Edit User Profile": null
+  "Edit another file": null
+  "Edit another interview": null
+  "Edit another package": null
+  "Edit module files": null
+  "Edit privileges": null
+  "Edit source files": null
+  "Edit text files": null
+  "Egypt": null
+  "El Salvador": null
+  "Email": null
+  "Email address is required": null
+  "Email is required": null
+  "Embed test": null
+  ? "Enter a URL of a GitHub repository containing an extension package.  When you press Pull, the contents of that repository will be copied into the Playground, overwriting any files with the same names.  Or, put in the name of a PyPI package and it will do the same with the package on PyPI."
+  : null
+  "Enter code": null
+  "Enter the name of the new project you want to create.": null
+  "Entering a different interview.  To go back to your previous interview, go to My Interviews on the menu.": null
+  "Entering a different interview.  To go back to your previous interview, log in to see a list of your interviews.": null
+  "Equatorial Guinea": null
+  "Erase existing data for each model before importing": null
+  "Eritrea": null
+  "Error": null
+  "Error reading JSON file from package.  File did not exist.": null
+  "Error reading JSON file.  Not a valid JSON file.": null
+  "Error reading JSON file.  The JSON file needs to contain a dictionary at the root level.": null
+  "Error: interview not found": null
+  "Error: interview not found and answers could not be decrypted": null
+  "Error: menu item is not a Python dict with keys of url and label": null
+  "Error: menu_items is not a Python list": null
+  "Error: no fields could be found in the file": null
+  "Errors": null
+  "Estonia": null
+  "Eswatini": null
+  "Ethiopia": null
+  "Every Two Weeks": null
+  "Existing module files": null
+  "Existing source files": null
+  "Existing static files": null
+  "Existing template files": null
+  "Exit": null
+  "Failed to load report": null
+  "Falkland Islands (Malvinas)": null
+  "Faroe Islands": null
+  "Fiji": null
+  "File": null
+  "File Name": null
+  "File Text": null
+  "File could not be converted: ": null
+  "File deleted.": null
+  "File format not understood: ": null
+  "File name": null
+  "File not deleted.  There was an error.": null
+  "File not found: ": null
+  "File to upload": null
+  "Files": null
+  "Filter For": null
+  "Filter by tag": null
+  "Filter for": null
+  "Finland": null
+  "First Subdivision": null
+  "First name": null
+  "First subdivision": null
+  "Floor": null
+  "Folder": null
+  "Folders": null
+  "Forgot Password": null
+  "Forgot password": null
+  "Forgot your Password?": null
+  "Formula": null
+  "France": null
+  "French Guiana": null
+  "French Polynesia": null
+  "French Southern Territories": null
+  "Functions": null
+  "Gabon": null
+  "Gambia": null
+  "Georgia": null
+  "Germany": null
+  "Get help through live chat by clicking here.": null
+  "Get list of fields from PDF/DOCX template": null
+  "Get package": null
+  "Get template": null
+  "Ghana": null
+  "Gibraltar": null
+  "GitHub": null
+  "GitHub Branch": null
+  "GitHub Integration": null
+  "GitHub URL": null
+  "GitHub integration": null
+  "GitHub integration was successfully configured.": null
+  "GitHub integration was successfully disconnected.": null
+  "Global": null
+  "Global models": null
+  "Go": null
+  "Go back to the main Playground page": null
+  "Go back to the previous question": null
+  "Google Drive": null
+  "Google Drive Sync": null
+  "Google Drive Test": null
+  "Google Drive is not configured": null
+  "Google Drive is not linked.": null
+  "Google Drive synchronization": null
+  "Greece": null
+  "Greenland": null
+  "Grenada": null
+  "Guadeloupe": null
+  "Guam": null
+  "Guatemala": null
+  "Guernsey": null
+  "Guinea": null
+  "Guinea-Bissau": null
+  "Guyana": null
+  "Haiti": null
+  "Heard Island and McDonald Islands": null
+  "Help": null
+  "Help is available": null
+  "Help is available for this question": null
+  "Help with this question": null
+  "Here is some content after the interview.": null
+  "Here is some content before the interview.": null
+  "Here is the start of a YAML file you can import with a 'words' directive in your Configuration.": null
+  "Here is your document.": null
+  "Hide context of example": null
+  "Hide entries that are already classified": null
+  "Hide import controls": null
+  "History": null
+  "Holy See (Vatican City State)": null
+  "Home Page": null
+  "Honduras": null
+  "Hong Kong": null
+  "How question came to be asked": null
+  "How this question came to be asked": null
+  "How would you like the data to be imported?": null
+  "Hungary": null
+  "I am sorry.  The code you entered is invalid or expired.  Goodbye.": null
+  "I do not understand what you mean by": null
+  "I don't know": null
+  "Iceland": null
+  "If you did not initiate this confirmation, you may safely ignore this email.": null
+  "If you did not initiate this password change,": null
+  "If you did not initiate this password reset, you may safely ignore this email.": null
+  "If you did not initiate this registration, you may safely ignore this email.": null
+  "If you did not initiate this username change, please": null
+  ? "If you have a GitHub account, you can turn on GitHub integration.  This will allow you to use GitHub as a version control system for packages from inside the Playground."
+  : null
+  "If you initiated this confirmation, please click on the link below:": null
+  "If you initiated this registration, please click on the link below to sign in to your existing account:": null
+  "If you initiated this registration, please click on the link below:": null
+  "If you initiated this request, please click on the link below:": null
+  "Import": null
+  "Import method": null
+  "Import training data from a JSON file": null
+  "Include DOCX file for editing": "Incluir archivo DOCX para editar"
+  "Include DOCX files for editing": null
+  "Include RTF and DOCX files for editing": null
+  "Include RTF file for editing": null
+  "Include RTF files for editing": null
+  "Incorrect %(username_or_email)s and/or Password": null
+  "Incorrect Email and/or Password": null
+  "Incorrect Password": null
+  "India": null
+  "Indonesia": null
+  "Input": null
+  "Input box": null
+  "Input not processed because the page expired.": null
+  "Input not processed because the question changed.  Please continue.": null
+  "Input not processed.  Please try again.": null
+  "Insert": null
+  "Install": null
+  "Install or update a package": null
+  "Install package on this server": null
+  "Install package on this server also": null
+  "Interview": null
+  "Interview answers cannot be decrypted": null
+  "Interview files": null
+  "Interview:": null
+  "Interviews": null
+  "Invalid E-mail": null
+  "Invalid Email": null
+  "Invalid Email address": null
+  "Invalid action.": null
+  "Invalid confirmation token.": null
+  "Invalid e-mail address": null
+  "Invalid interview": null
+  "Invalid invitation token": null
+  "Invalid phone number.": null
+  "Invitation has been sent.": null
+  "Invitations have been sent.": null
+  "Invite": null
+  "Invite User": null
+  "Invite a user": null
+  "Invite!": null
+  "Iran, Islamic Republic of": null
+  "Iraq": null
+  "Ireland": null
+  "Isle of Man": null
+  "Israel": null
+  "Italy": null
+  "Items": null
+  "Items in the Playground other than interviews": null
+  "Items in the training set": null
+  "JSON file": null
+  "Jamaica": null
+  "Japan": null
+  "Jersey": null
+  "Jinja2 help template": null
+  "Join": null
+  "Jordan": null
+  "Kazakhstan": null
+  "Kenya": null
+  "Kiribati": null
+  "Korea, Republic of": null
+  "Kuwait": null
+  "Kyrgyzstan": null
+  "Language": null
+  "Last name": null
+  "Latvia": null
+  "Leave": null
+  "Lebanon": null
+  "Lesotho": null
+  "Liberia": null
+  "Libya": null
+  "License": null
+  "Liechtenstein": null
+  "Linked folder": null
+  "Links": null
+  "List of ISO-639-1 language codes": null
+  "Listen": null
+  "Lithuania": null
+  "Live chat": null
+  "Live chat is available": null
+  "Loading . . .": null
+  "Loading.  Please wait . . . ": null
+  "Log": null
+  "Logs": null
+  "Luxembourg": null
+  "Macao": null
+  "Madagascar": null
+  "Malawi": null
+  "Malaysia": null
+  "Maldives": null
+  "Mali": null
+  "Malta": null
+  "Manage Emails": null
+  "Manage Projects": null
+  "Manage account": null
+  "Manually add a training item": null
+  "Markdown": null
+  "Marshall Islands": null
+  "Martinique": null
+  "Mauritania": null
+  "Mauritius": null
+  "Mayotte": null
+  "Menu": null
+  "Menu:": null
+  "Merge new data into existing data": null
+  "Methods": null
+  "Mexico": null
+  "Micronesia, Federated States of": null
+  "Models": null
+  "Modules": null
+  "Modules available in Playground": null
+  "Modules defined": null
+  "Moldova, Republic of": null
+  "Monaco": null
+  "Mongolia": null
+  "Monitor": null
+  "Montenegro": null
+  "Montserrat": null
+  "Morocco": null
+  "Move down": null
+  "Mozambique": null
+  "Multiselect box": null
+  "Must be a two-letter code": null
+  "Must be a valid e-mail address": null
+  "Must be in E.164 format.  U.S. phone numbers begin with +1.": null
+  "My Interviews": null
+  "My Playground": null
+  "Myanmar": null
+  "Name": null
+  "Name of new branch": null
+  "Name of new privilege": null
+  "Name of new privilege is required": null
+  "Names and questions": null
+  "Names from": null
+  "Namibia": null
+  "Nauru": null
+  "Nepal": null
+  "Netherlands": null
+  "New API Key": null
+  "New Caledonia": null
+  "New Name": null
+  "New Password": null
+  "New Password and Retype Password did not match": null
+  "New Password is required": null
+  "New Username": null
+  "New Zealand": null
+  "New chat connection from": null
+  "New chat message": null
+  "New conversation above": null
+  "New conversation below": null
+  "New here?  Register.": null
+  "New here? Register.": null
+  "New message above": null
+  "New message below": null
+  "New project": null
+  "Next": null
+  "Next result": null
+  "Next will be": null
+  "Nicaragua": null
+  "Nickname": null
+  "Niger": null
+  "Nigeria": null
+  "Niue": null
+  "No": null
+  "No access code was entered.": null
+  "No administrators could be found.": null
+  "No data existed in training set.  JSON file not created.": null
+  "No files have been uploaded yet.": null
+  "No models were found.": null
+  "None of the above": null
+  "Norfolk Island": null
+  "North Macedonia": null
+  "Northern Mariana Islands": null
+  "Norway": null
+  "Not Found": null
+  "Not authorized": null
+  "Not available for chat": null
+  "Note": null
+  "Note that if you connect to a Google Drive folder, you will disable your connection to OneDrive.": null
+  "Note that if you connect to a OneDrive folder, you will disable your connection to Google Drive.": null
+  ? "Note that you can use a DOCX template file directly; 'fields' is only necessary in the rare case when the variable names in your DOCX file do not correspond with the variable names in your interview."
+  : null
+  "Note: it is a best practice to tag every mandatory block with an id.": null
+  "Note: more than one block uses id": null
+  "Note: only users with e-mail/password accounts can be given admin privileges.": null
+  "OCR succeeded": null
+  "Observation": null
+  "Observe": null
+  "Office Add-in": null
+  "Old Password": null
+  "Old Password is incorrect": null
+  "Old Password is required": null
+  "Oman": null
+  "One or more e-mail addresses (separated by newlines)": null
+  "OneDrive": null
+  "OneDrive is not configured": null
+  "OneDrive is not linked.": null
+  "OneDrive synchronization": null
+  "Only the last 30 lines are shown.  Download the file to see the previous lines.": null
+  "Open another log file": null
+  "Or you can specify a:": null
+  "Or you can upload a:": null
+  "Organization": null
+  "Original Name": null
+  "Other settings": null
+  "Output Format": null
+  "Overrides": null
+  "PDF/DOCX File": null
+  "Package": null
+  "Package Management": null
+  "Package Name": null
+  "Package Name is required": null
+  "Package created": null
+  "Package did not exist": null
+  "Package name": null
+  "Package name is required": null
+  "Package on PyPI": null
+  "Packages": null
+  "Pakistan": null
+  "Palau": null
+  "Palestine, State of": null
+  "Panama": null
+  "Papua New Guinea": null
+  "Paraguay": null
+  "Password": null
+  "Password and Retype Password did not match": null
+  "Password is required": null
+  "Password must have at least 6 characters with one lowercase letter, one uppercase letter and one number": null
+  "Per Month": null
+  "Per Week": null
+  "Per Year": null
+  "Peru": null
+  "Philippines": null
+  "Phone help": null
+  "Phone help is available": null
+  "Phone number": null
+  "Pitcairn": null
+  "Plain text of sections": null
+  "Playground": null
+  "Playground Packages": null
+  "Playground YAML": null
+  "Playground not saved.  There was an error.": null
+  "Please choose a different e-mail address.": null
+  "Please enter a multiple of {0}.": null
+  "Please enter a valid phone number": null
+  "Please enter a valid value.": null
+  "Please enter a whole number.": null
+  "Please enter the four digit code, followed by the pound sign.": null
+  "Please enter the verification code from the text message we just sent you.": null
+  "Please enter the verification code from your authentication app.": null
+  "Please log in.": null
+  "Please select at least %s.": null
+  "Please select exactly %s.": null
+  "Please select no more than %s.": null
+  "Please select one.": null
+  "Please send a video, or type skip.": null
+  "Please send a video.": null
+  "Please send an audio clip, or type skip.": null
+  "Please send an audio clip.": null
+  "Please send an image or file, or type skip.": null
+  "Please send an image or file.": null
+  "Please send one or more images, or type skip.": null
+  "Please send one or more images.": null
+  "Please upload a file with a valid file format.": null
+  "Please wait.": null
+  "Please wait.  File is being uploaded": null
+  "Please wait.  Files are syncing.": null
+  "Please wait.  Interview will start when sync is complete.": null
+  ? "Please wait.  Packages are updating.  The screen will refresh when the process is complete.  This may take several minutes."
+  : null
+  "Please wait.  System is restarting.": null
+  "Poland": null
+  "Portugal": null
+  "Possibly not defined": null
+  "Possibly not used": null
+  "Prediction": null
+  "Press one of the following buttons:": null
+  "Press the Publish button to publish the package on PyPI.": null
+  "Preview": null
+  "Previous result": null
+  "Privilege": null
+  "Privileges": null
+  "Problem detected.": null
+  "Profile": null
+  "Profile Page": null
+  "Project": null
+  "Project name cannot begin with a number": null
+  "Project name is required": null
+  "Projects": null
+  "Publish": null
+  "Publish on PyPI": null
+  "Publish on PyPI also": null
+  "Puerto Rico": null
+  "Pull": null
+  "Pull GitHub or PyPI Package": null
+  "Pull a package from GitHub or PyPI into the Playground": null
+  "Push a commit to GitHub": null
+  "Pushed commit to GitHub.": null
+  "PyPI": null
+  "PyPI Password": null
+  "PyPI Username": null
+  "PyPI package": null
+  "Qatar": null
+  "Question": null
+  "README file": null
+  "Read this screen out loud": null
+  "Readability": null
+  "Reason for needing developer account (optional)": null
+  "Reconfigure": null
+  "Refresh": null
+  "Register": null
+  "Register for an account on": null
+  "Register with Auth0": null
+  "Register with Azure": null
+  "Register with Facebook": null
+  "Register with Google": null
+  "Register with Twitter": null
+  "Register with your mobile phone": null
+  "Registration is invite only": null
+  "Remember me": null
+  "Remove": null
+  "Rename": null
+  "Rename project": null
+  "Reorder by moving down": null
+  "Reorder by moving up": null
+  "Replace each instance of Null with a quoted translation.": null
+  "Request Developer Account": null
+  "Resend Confirmation Email": null
+  "Resend email confirmation email": null
+  "Reset Password": null
+  "Reset e-mail confirmation": null
+  "Reset password": null
+  "Restart": null
+  "Restarting": null
+  "Resume": null
+  "Resume an interview": null
+  "Retry": null
+  "Return": null
+  "Retype New Password": null
+  "Retype Password": null
+  "Role": null
+  "Romania": null
+  "Room": null
+  "Run": null
+  "Running in other tab.": null
+  "Russian Federation": null
+  "Rwanda": null
+  "Réunion": null
+  "SMS": null
+  "Saint Barthélemy": null
+  "Saint Helena, Ascension and Tristan da Cunha": null
+  "Saint Kitts and Nevis": null
+  "Saint Lucia": null
+  "Saint Martin (French part)": null
+  "Saint Pierre and Miquelon": null
+  "Saint Vincent and the Grenadines": null
+  "Samoa": null
+  "San Marino": null
+  "Sao Tome and Principe": null
+  "Saudi Arabia": null
+  "Save": null
+  "Save and Run": null
+  "Save changes": null
+  "Save your changes": null
+  "Save your changes to the package information": null
+  "Saved": null
+  "Saved at": null
+  "Scan": null
+  "Scan the barcode with your phone's authenticator app and enter the verification code.": null
+  "Score": null
+  "Search": null
+  "Second Subdivision": null
+  "Second factor authentication": null
+  "Second subdivision": null
+  "Section": null
+  "Sections": null
+  "Security Method": null
+  "Select a package": null
+  "Select a value between": null
+  "Select box": null
+  "Select file": null
+  "Select one": "Seleccione uno"
+  "Select the folder from your OneDrive that you want to be synchronized with the Playground.": null
+  "Select zero or more files": null
+  "Select zero or more packages": null
+  "Select...": "Seleccione..."
+  "Send": "Enviar"
+  "Send Confirmation E-mail": null
+  "Send confirmation email": null
+  "Send reset password email": null
+  "Senegal": null
+  "Serbia": null
+  "Server did not respond to request for update.": null
+  "Sessions": null
+  "Seychelles": null
+  "Share": null
+  "Show all": null
+  "Show attributes": null
+  "Show context of example": null
+  "Show entries that are already classified": null
+  "Show import controls": null
+  "Show report of names and associated questions": null
+  "Show variables and values": null
+  "Showing interviews tagged with:": null
+  "Sierra Leone": null
+  "Sign In": null
+  "Sign Out": null
+  "Sign Your Name": null
+  "Sign in": null
+  "Sign in or sign up to save answers": null
+  "Sign in to save answers": null
+  "Sign in with Auth0": null
+  "Sign in with Azure": null
+  "Sign in with Facebook": null
+  "Sign in with Google": null
+  "Sign in with Twitter": null
+  "Sign in with your mobile phone": null
+  "Sign in.": null
+  "Since you changed a Python module, the server needs to restart in order to load your module.": null
+  "Since you did not type \"delete my account\" I did not delete your account.": null
+  "Since you renamed a project, the server needs to restart in order to reload any modules.": null
+  "Since you uploaded a Python module, the server needs to restart in order to load your module.": null
+  "Singapore": null
+  "Sint Maarten (Dutch part)": null
+  "Slovakia": null
+  "Slovenia": null
+  "Social ID": null
+  "Solomon Islands": null
+  "Somalia": null
+  "Sorry, no help is available for this question.": null
+  "Sorry, only .py files can be uploaded here.  To upload other types of files, use other Folders.": null
+  "Sorry, only YAML files can be uploaded here.  To upload other types of files, use the Folders.": null
+  "Sorry, that package name does not exist in the playground": null
+  "Sorry, that package name is already in use by someone else": null
+  "Sorry, that package name,": null
+  "Source": null
+  "Source Files": null
+  "Source code for question": null
+  "Source files": null
+  "Sources": null
+  "South Africa": null
+  "South Georgia and the South Sandwich Islands": null
+  "South Sudan": null
+  "Spain": null
+  "Special Page": null
+  "Special variable": null
+  "Sri Lanka": null
+  "Started": null
+  "Starting a new interview.  To go back to your previous interview, go to My Interviews on the menu.": null
+  "Starting a new interview.  To go back to your previous interview, log in to see a list of your interviews.": null
+  "Static Files": null
+  "Static files": null
+  "Stop Controlling": null
+  "Stop Observing": null
+  "Submit": null
+  "Sudan": null
+  "Suriname": null
+  "Svalbard and Jan Mayen": null
+  "Sweden": null
+  "Switzerland": null
+  "Sync": null
+  "Sync and Run": null
+  "Sync with Google Drive": null
+  "Sync with OneDrive": null
+  "Synchronizing": null
+  "Synchronizing with Google Drive": null
+  "Synchronizing with OneDrive": null
+  "Syrian Arab Republic": null
+  "System": null
+  "Tags": null
+  "Taiwan, Province of China": null
+  "Tajikistan": null
+  "Tanzania, United Republic of": null
+  "Telephone assistance": null
+  "Template files": null
+  "Templates": null
+  "Terms used in this question:": null
+  "Terms used:": null
+  "Test": null
+  "Thailand": null
+  "Thank you for registering with": null
+  "That package name is already in use by someone else.  Please change the name.": null
+  "That screen is already being controlled by another operator": null
+  "The JSON file in the package": null
+  "The Playground is synchronizing with Google Drive.": null
+  "The README.md file for the package": null
+  "The author is": null
+  "The commit was saved locally at %s.": null
+  "The configuration file was saved.": null
+  "The current branch is %s and the current commit is %s.": null
+  "The current branch is %s.": null
+  "The default project cannot be deleted.": null
+  "The document is available in the following formats:": "El documento se encuentra disponible en los siguientes formatos:"
+  "The file was uploaded to the Templates folder.": null
+  "The file you requested does not exist.": null
+  "The following document has been created for you.": "El siguiente documento ha sido creado."
+  "The following documents have been created for you.": null
+  "The following errors were detected in your Configuration.": null
+  "The following overrides were applied.": null
+  "The information was saved.": null
+  "The key no longer exists": null
+  "The key was deleted": null
+  "The link has expired.": null
+  "The mapping was reset because the folder does not appear to exist anymore.": null
+  "The name must be filled in.": null
+  "The new user has been created": null
+  "The operator is no longer controlling your screen.": null
+  "The package information was saved.": null
+  "The package update did not report an error.  The logs are below.": null
+  "The package update reported an error.  The logs are below.": null
+  "The package was unpacked into the Playground.": null
+  "The package you specified could not be downloaded from PyPI as a tar.gz file.": null
+  "The package you specified could not be downloaded from PyPI.": null
+  "The phone number is not in E.164 format (e.g. +12025551212)": null
+  "The previously selected OneDrive folder does not exist.": null
+  "The previously selected OneDrive folder was deleted.": null
+  "The privilege could not be added because it already exists.": null
+  "The privilege was added.": null
+  "The project name %s is not available.": null
+  "The regular expression you provided could not be parsed.": null
+  "The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.": null
+  "The role could not be deleted.": null
+  "The synchronization was not successful.": null
+  "The synchronization was successful.": null
+  "The user account was deleted.": null
+  "The user can call you.  Click to cancel.": null
+  "The user profile was not changed.": null
+  "The version on PyPI is": null
+  "The zip file did not contain a docassemble add-on package.": null
+  "There are no active sessions.": null
+  "There are unsaved changes.  Are you sure you wish to leave this page?": null
+  "There is already a username and password on this system with the e-mail address": null
+  "There was a problem reading the YAML file you uploaded.  Are you sure it is a YAML file?  File was not saved.": null
+  "There was a problem sending the text message.": null
+  "There was a problem sending you a text message.  Please log in another way.": null
+  "There was a problem uploading the file.": null
+  "There was an error updating the packages.": null
+  "There was an error with the synchronization.": null
+  "There was an error.": null
+  "Third Subdivision": null
+  "Third subdivision": null
+  "This Email is already in use. Please try another one.": null
+  "This Username is already in use. Please try another one.": null
+  "This account uses two-factor authentication.": null
+  "This field is required.": "Este campo es requerido"
+  "This image file does not exist": null
+  "This is my custom interview page.": null
+  "This package is": null
+  "This package is not yet published on PyPI.": null
+  "This package is not yet published on your GitHub account.": null
+  "This package was originally pulled from": null
+  "Thumbnail image of document": null
+  "Time Zone": null
+  "Timor-Leste": null
+  "Title": null
+  "To reach an advocate who can assist you, call": null
+  "To read the question again, type question.": null
+  "Togo": null
+  "Tokelau": null
+  "Token": null
+  "Tonga": null
+  "Train": null
+  "Train machine learning models": null
+  "Trainer privilege": null
+  "Training data were successfully imported.": null
+  "Translate": null
+  "Translate system phrases into another language": null
+  "Trinidad and Tobago": null
+  "Tunisia": null
+  "Turkey": null
+  "Turkmenistan": null
+  "Turks and Caicos Islands": null
+  "Turn off chat": null
+  "Tuvalu": null
+  "Twice Per Month": null
+  "Two-factor authentication": null
+  "Type": null
+  "Type \"delete my account\" here to confirm that you want to delete your account.": null
+  "Type ? for additional assistance.": null
+  "Type ? to see": null
+  "Type Ctrl-space to autocomplete.": null
+  "Type [y]es or [n]o.": null
+  "Type [y]es, [n]o, or [d]on't know": null
+  "Type a currency value, or type skip.": null
+  "Type a currency value.": null
+  "Type a date and time, or type skip.": null
+  "Type a date and time.": null
+  "Type a date, or type skip.": null
+  "Type a date.": null
+  "Type a number, or type skip.": null
+  "Type a number.": null
+  "Type a time, or type skip.": null
+  "Type a time.": null
+  "Type a value between": null
+  "Type an e-mail address, or type skip.": null
+  "Type an e-mail address.": null
+  "Type ok to continue.": null
+  "Type the": null
+  "Type x to sign your name electronically": null
+  "Type your message here.": null
+  "Type your selection(s), separated by commas, or type none.": null
+  "Type your selection(s), separated by commas.": null
+  "Type your selection, or type skip to move on without selecting.": null
+  "Type your selection.": null
+  "URL": null
+  "Uganda": null
+  "Ukraine": null
+  "Unable to determine IP address": null
+  "Unable to determine if the package is published on PyPI.": null
+  "Unable to determine if the package is published on your GitHub account.": null
+  "Unable to e-mail your documents to": null
+  "Unable to find documents to e-mail.": null
+  "Unable to locate interview session.  Starting a new session instead.": null
+  "Unable to read log file; please download.": null
+  "Unable to retrieve interview session.  Starting a new session instead.": null
+  "Unable to send e-mail to": null
+  "Unable to send e-mail.  Error was: ": null
+  "Unable to send verification code.": null
+  "Unblock": null
+  "Unclassified items in the training set": null
+  "Undefined names": null
+  "Undelete": null
+  "Uninstall": null
+  "Unit": null
+  "United Arab Emirates": null
+  "United Kingdom": null
+  "United States": null
+  "United States Minor Outlying Islands": null
+  "Unknown": null
+  "Unnamed User": null
+  "Untitled": null
+  "Update": null
+  "Update or uninstall an existing package": null
+  "Updating": null
+  "Updating packages": null
+  "Upgrade": null
+  "Upgrade docassemble": null
+  "Upload": null
+  "Upload a Python module": null
+  "Upload a YAML file to the Playground": null
+  "Upload a package ZIP file to the Playground": null
+  "Upload a source file": null
+  "Upload a static file": null
+  "Upload a template file": null
+  "Upload successful": null
+  "Upload this .docx file to the Templates folder": null
+  "Uruguay": null
+  "Use Package": null
+  "Use a different server": null
+  "Used in": null
+  "User": null
+  "User List": null
+  "User Profile": null
+  "User profile": null
+  "Username": null
+  "Username is required": null
+  "Username may only contain letters, numbers, '-', '.' and '_'": null
+  "Username must be at least 3 characters long": null
+  "Username or Email": null
+  "Username/Email": null
+  "Uses two-factor authentication": null
+  "Using Jinja2": null
+  "Utilities": null
+  "Uzbekistan": null
+  "Valid characters are: A-Z, a-z, 0-9": null
+  "Valid characters are: A-Z, a-z, 0-9, hyphen": null
+  "Vanuatu": null
+  "Variables": null
+  "Variables, etc. from": null
+  "Venezuela, Bolivarian Republic of": null
+  "Verification code": null
+  "Verify": null
+  "Verify your phone": null
+  "Version": null
+  "Version ": null
+  "Viet Nam": null
+  "View documentation": null
+  "Virgin Islands, British": null
+  "Virgin Islands, U.S.": null
+  "WARNING!  If you press Delete, the contents of the %s project will be permanently deleted.": null
+  "Waiting": null
+  "Wallis and Futuna": null
+  "Warning: a file by that name already exists.  If you save, you will overwrite it.": null
+  "Warning: a package definition by that name already exists.  If you save, you will overwrite it.": null
+  "We have received your password reset request.": null
+  "We just sent you a text message with a verification code.  Enter the verification code to proceed.": null
+  "We were unable to submit your request.": null
+  "Western Sahara": null
+  "What file do you want to import?": null
+  "When you type inside Jinja2 brackets, auto-complete options will appear here.": null
+  "Wizard": null
+  "Would you like to reconfigure two-factor authentication?": null
+  "Yemen": null
+  "Yes": "Si"
+  "You are available for the following roles: ": null
+  "You are not allowed to access this interview.": null
+  "You are not authorized to access": null
+  "You are now set up with two factor authentication.": null
+  "You are renaming the project called %s.": null
+  "You can also follow this link: ": null
+  "You can provide a:": null
+  "You can type link1 to visit the link": null
+  "You can type link1, etc. to visit a link": null
+  "You can type menu1 to select the menu item": null
+  "You can type menu1, etc. to select a menu item": null
+  "You can type question to read the question again.": null
+  "You can upload a file here": null
+  "You cannot log in this way.": null
+  "You cannot log in until your e-mail address has been confirmed.": null
+  "You cannot pull from GitHub and PyPI at the same time.  Please fill in one and leave the other blank.": null
+  "You cannot rename the default Playground project": null
+  "You cannot take away your own admin privilege.": null
+  "You cannot type more than %s characters.": null
+  "You do not have any API keys yet.": null
+  "You do not have permission to access '%(url)s'.": null
+  "You do not have permission to install this package.": null
+  "You have been invited to join": null
+  "You have made too many login attempts.": null
+  "You have registered successfully.": null
+  "You have signed in successfully.": null
+  "You have signed out successfully.": null
+  "You must attach a file.": null
+  "You must be signed in to access '%(url)s'.": null
+  "You must confirm your email to access '%(url)s'.": null
+  "You must provide a file.": null
+  "You must provide a language": null
+  "You must provide an interview filename": null
+  "You must select an option.": null
+  "You must sign your name to continue.": null
+  "You must type at least %s characters.": null
+  "You need to be logged in to access this interview.": null
+  "You need to enter a complete e-mail address.": "Necesita ingresar un e-mail válido"
+  "You need to enter a date between %s and %s.": null
+  "You need to enter a date on or after %s.": null
+  "You need to enter a date on or before %s.": null
+  "You need to enter a number that is at least %s.": null
+  "You need to enter a number that is at most %s.": null
+  "You need to enter a number.": null
+  "You need to enter a valid date and time.": null
+  "You need to enter a valid date.": null
+  "You need to enter a valid number.": null
+  "You need to enter a valid time.": null
+  "You need to enter a valid value.": null
+  "You need to increment the version before publishing to PyPI.": null
+  "You need to log in before you can access": null
+  "You need to log in with Auth0.": null
+  "You need to log in with Azure.": null
+  "You need to log in with Facebook.": null
+  "You need to log in with Google.": null
+  "You need to log in with Twitter.": null
+  "You need to select one or type in a new value.": "Necesita seleccionar una opción o ingresar un valor"
+  "You need to select one.": "Debes seleccionar uno"
+  "You need to supply a Git URL, upload a file, or supply the name of a package on PyPI.": null
+  "You need to type in a name for the file": null
+  "You need to type in a name for the interview": null
+  "You will need to confirm your email next.": null
+  "You will need to confirm your email to start using": null
+  "Your GitHub integration has already been configured.": null
+  ? "Your GitHub integration is currently turned on.  Below, you can change which repositories docassemble can access.  You can disable GitHub integration if you no longer wish to use it."
+  : null
+  "Your GitHub settings were saved.": null
+  "Your IP address is": null
+  "Your Playground is connected to your Google Drive.": null
+  "Your Playground is connected to your OneDrive.": null
+  ? "Your account already has two-factor authentication enabled.  Would you like to reconfigure or disable two-factor authentication?"
+  : null
+  "Your account has been disabled.": null
+  "Your account has not been enabled.": null
+  "Your account no longer uses two-factor authentication.": null
+  ? "Your browser session has expired and you have been signed out.  You will not be able to save your work.  Please log in again."
+  : null
+  "Your confirmation token has expired.": null
+  "Your docassemble server": null
+  "Your document is attached.": null
+  "Your document, ": null
+  "Your document, %s, is attached.": null
+  "Your documents are attached.": null
+  "Your documents will be e-mailed to": null
+  "Your documents, ": null
+  "Your documents, %s, are attached.": null
+  "Your e-mail address": null
+  "Your email address": null
+  ? "Your email address has not yet been confirmed. Check your email Inbox and Spam folders for the confirmation email or <a href=\"%(url)s\">Re-send confirmation email</a>."
+  : null
+  "Your email has been confirmed.": null
+  "Your file upload is larger than the server can accept. Please reduce the size of your file upload.": null
+  "Your information was saved.": null
+  "Your new API key, known internally as %s, is %s": null
+  "Your password has been changed successfully.": null
+  "Your password has been changed.": null
+  "Your password has been reset successfully.": null
+  "Your password is insecure and needs to be changed": null
+  "Your phone #": null
+  "Your request was submitted.": null
+  "Your reset password token has expired.": null
+  "Your reset password token is invalid.": null
+  "Your screen is being controlled by an operator.": null
+  "Your status: ": null
+  "Your username has been changed to '%(username)s'.": null
+  "Your username has been changed.": null
+  "Your verification code is": null
+  "Your verification code is invalid or expired.  Please try again.": null
+  "Your verification code was invalid or expired.": null
+  "Your verification code was invalid.": null
+  "Your verification code was missing or expired": null
+  "Your version is": null
+  "Zambia": null
+  "Zimbabwe": null
+  "Zip File": null
+  "a GitHub repository": null
+  "and": null
+  "and enter the code": null
+  "anonymous visitor": null
+  "are you": null
+  "back": null
+  "blank message": null
+  "click here to reset it": null
+  "could not connect to Google Drive": null
+  "could not connect to OneDrive": null
+  "day": null
+  "defined by": null
+  "definitions of words": null
+  "delete my account": null
+  "e.g., *example.com": null
+  "e.g., 56.33.114.49": null
+  "exit": null
+  "f": null
+  "false": null
+  "for debugging PDF output": null
+  "for downloading": null
+  "for editing; requires Microsoft Word or compatible application": "para editar, requiere de Word u otra aplicación similar"
+  "for editing; requires Microsoft Word, Wordpad, or similar application": "para editar, requiere de Word u otra aplicación similar"
+  "for printing; requires Adobe Reader or similar application": "para imprimir, requiere de Adobe Reader u otra aplicación similar"
+  "from": null
+  "he": null
+  "her": null
+  "him": null
+  "icon": null
+  "in mako": null
+  "in the": null
+  "interview answers cannot be decrypted": null
+  "is not a valid date and time.": null
+  "is not a valid date.": "no es una fecha valida"
+  "is not a valid number.": "no es un numero valido"
+  "is not a valid time.": "no es un horario valido"
+  "is not a whole number.": "no es un numero entero"
+  "is not within the range.": "no se encuentra dentro del rango"
+  "it": null
+  "link": null
+  "means the name is located in this file": null
+  "means the name may be located in a file included by reference, such as:": null
+  "mentioned in": null
+  "menu": null
+  "menu items": null
+  "month": "mes"
+  "n": null
+  "n/a": null
+  "no": null
+  "none": null
+  "offline": null
+  "ok": null
+  "operator": null
+  "operators": null
+  "or": null
+  "or type skip to leave blank.": null
+  "other user": null
+  "other users": null
+  "pages": null
+  "password": null
+  "pip log": null
+  "published on GitHub": null
+  "published on PyPI": null
+  "question": null
+  "quit": null
+  "remaining on disk": null
+  "she": null
+  "sign in": null
+  "skip": null
+  "something": null
+  "system": null
+  "t": null
+  "them": null
+  "they": null
+  "to proceed.": null
+  "true": null
+  "unavailable": null
+  "user": null
+  "v.": null
+  "was saved at": null
+  "x": null
+  "y": null
+  "year": null
+  "yes": null
+  "you": null
+  "yourself": null
+  "Åland Islands": null
